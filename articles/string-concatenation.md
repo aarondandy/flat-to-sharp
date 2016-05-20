@@ -66,7 +66,7 @@ Console.WriteLine("You have died.\n(╯°□°)╯ / ┻━┻");
 ```
 
 The first of the two lines tells the console that we are going to give it more complicated [Unicode](https://en.wikipedia.org/wiki/Unicode) text
-and is required for to display a table flip correctly but not commonly used.
+and is required for it to display a table flip correctly but not commonly used.
 The second of the two lines actually displays two lines of characters on the console instead of the usual one line.
 Within the string in this code is the [escape sequence](https://msdn.microsoft.com/en-us/library/h21280bw.aspx)
 of `\n` which adds a new line character to the string and causes a new line at that point in the console output.
