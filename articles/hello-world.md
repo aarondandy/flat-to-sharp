@@ -1,5 +1,7 @@
 # Hello, World!
 
+This article with teach you how to create a new console application project.
+
 ## Environment setup
 
 To work your way through this tutorial you will need a few things.
